@@ -7,7 +7,7 @@ PDF 는 저작권이 있으니 권리자에게 받은 것만 쓰고, 다른 사�
 """
 import sys
 from pathlib import Path
-import fitz  # PyMuPDF
+import pymupdf as fitz  # PyMuPDF (옛 이름 fitz 는 폐기 예정)
 
 p = Path(sys.argv[1])
 doc = fitz.open(p)
