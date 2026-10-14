@@ -1,0 +1,16 @@
+# 비밀
+.env
+secrets/
+# 환경·캐시
+.venv/
+__pycache__/
+tts-cache/
+*.jsonl
+# 책마다 생기는 큰 산출물 (근거·원고·표지는 커밋)
+books/*/img/
+books/*/work-*/
+books/*/out/
+books/*/book.pdf
+books/*/book.txt
+books/*/uploaded.json
+.DS_Store
