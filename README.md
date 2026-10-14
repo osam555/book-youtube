@@ -14,7 +14,7 @@
 git clone https://github.com/osam555/book-youtube.git
 cd book-youtube
 ```
-(비공개 저장소라 저장소 주인이 초대해야 받을 수 있다. Git 이 없으면 Windows 는 `winget install Git.Git`, macOS 는 `xcode-select --install`.)
+(Git 이 없으면 Windows 는 `winget install Git.Git`, macOS 는 `xcode-select --install`.)
 
 ## 2. 설치 (한 번만)
 
