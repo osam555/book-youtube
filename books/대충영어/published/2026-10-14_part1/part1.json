@@ -1,0 +1,65 @@
+{
+  "id": "part1",
+  "title_top": [
+    "영어 10년 했는데",
+    "왜 아직도 안 될까?"
+  ],
+  "title_sub": "영어가 무기였던 외교관이 쓴 책 《대충영어》",
+  "voice": "Jiseon",
+  "lines": [
+    {
+      "cap": "영어, 10년 넘게 공부했는데|왜 아직도 안 될까요?",
+      "say": "영어, 십 년 넘게 공부했는데, 왜 아직도 안 될까요?",
+      "evidence": "54쪽 「왜 영어는 10년을 공부해도 안 될까?」 · 「초등학교부터 대학까지 10년 넘게 영어 공부를 하지만」",
+      "img": "A Korean high-school student asleep at a cluttered desk late at night, surrounded by tall stacks of worn English textbooks and vocabulary flashcards, a single desk lamp glowing, rain on the window."
+    },
+    {
+      "cap": "한 통계에 따르면|대학 졸업까지 평균 2만 시간",
+      "say": "한 통계에 따르면, 대학 졸업까지 평균 이만 시간을 쏟는다고 합니다.",
+      "evidence": "54쪽 「한 통계에 따르면 한국인은 대학을 졸업할 때까지 영어 공부에 평균 2만 시간을 쏟는다고 합니다」",
+      "img": "A large antique hourglass on a wooden table, sand pouring, behind it towering piles of old used notebooks and exam papers fading into darkness, dust in a beam of light."
+    },
+    {
+      "cap": "그런데 정작 외국인을 만나면|제대로 말하지 못하죠",
+      "say": "그런데 정작 외국인을 만나면, 제대로 말하지 못하죠.",
+      "evidence": "54쪽 「정작 외국인을 만나면 제대로 말하지 못하는 경우가 많습니다」",
+      "img": "Inside a bright modern airport arrivals hall, a Korean office worker in his thirties stands frozen and embarrassed while a friendly Western traveler with a backpack asks him something, shallow depth of field, soft evening light, plain background walls with no signage."
+    },
+    {
+      "cap": "영어가 무기였던|한 외교관도 마찬가지였습니다",
+      "say": "영어가 무기였던 한 외교관도, 마찬가지였습니다.",
+      "evidence": "37쪽 「저는 영어가 제 무기라는 사실을 의심한 적이 없었습니다」 · 홍콩·북경 외교관 생활",
+      "img": "A confident young Korean diplomat in a dark suit walking down a grand embassy corridor with marble floors and tall windows, flags as soft blurred colors without any symbols, cinematic."
+    },
+    {
+      "cap": "원어민끼리 빠르게 주고받는 대화를|한마디도 알아듣지 못했거든요",
+      "say": "원어민끼리 빠르게 주고받는 대화를, 한마디도 알아듣지 못했거든요.",
+      "evidence": "37쪽 「독일 외교관 두 명이 앞에서 빠르게 대화를 나누기 시작했습니다 … 한마디도 알아듣지 못했던 것입니다」",
+      "img": "An elegant restaurant dinner after a diplomatic meeting: two European diplomats laughing and talking quickly in the background, a Korean male diplomat in his thirties in a dark suit in the foreground looking stunned and lost, warm candle light."
+    },
+    {
+      "cap": "이유는 시간이 아니라|올바른 입력이 부족했기 때문",
+      "say": "이유는 시간이 아니라, 올바른 입력이 부족했기 때문입니다.",
+      "evidence": "56쪽 「영어를 10년을 공부해도 안 되는 이유는 ‘시간이 부족해서’가 아니라, 올바른 입력이 부족했기 때문입니다」",
+      "img": "Close-up of studio headphones resting on a desk with glowing golden sound waves flowing out of them into the dark air, abstract and hopeful."
+    },
+    {
+      "cap": "그 외교관이|직접 만든 영어 학습법",
+      "say": "그 외교관이 직접 만든 영어 학습법.",
+      "evidence": "5쪽 프롤로그 「제가 10년 전, 〈대충영어〉 프로그램을 만든 후」 + 37쪽 외교관 일화(저자 본인)",
+      "img": "A Korean man in his forties with rolled-up shirt sleeves writing in a notebook at a wooden desk by a window at sunrise, a cup of coffee and earphones beside him, calm and determined."
+    },
+    {
+      "cap": "완벽한 영어보다 통하는 영어|《대충영어》",
+      "say": "완벽한 영어보다 통하는 영어, 대충영어. 교보문고에서 만나 보세요.",
+      "evidence": "9쪽 추천사 「‘완벽한 영어보다는 통하는 영어를 하라’는 이 부제」",
+      "img": null
+    }
+  ],
+  "end": {
+    "book": "《대충영어》",
+    "by": "오승종 지음 · 차선책",
+    "cta": "교보문고에서 만나 보세요",
+    "note": "효과에는 개인차가 있습니다"
+  }
+}

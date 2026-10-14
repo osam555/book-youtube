@@ -1,0 +1,62 @@
+{
+ "file": "/Users/osam/dev/speed-listening/store/video/book-promo-3part/out/part1.mp4",
+ "checks": {
+  "lufs_total": {
+   "ok": true,
+   "detail": "-14.2 LUFS"
+  },
+  "lufs_per_line": {
+   "ok": true,
+   "detail": {
+    "median": -14.0,
+    "dev": [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.1,
+     0.0,
+     0.0,
+     0.0
+    ]
+   }
+  },
+  "silence": {
+   "ok": true,
+   "detail": []
+  },
+  "format": {
+   "ok": true,
+   "detail": "1080x1920 35.20s (계획 35.2)"
+  },
+  "end_card_3s": {
+   "ok": true,
+   "detail": "5.66s"
+  },
+  "caption_numbers": {
+   "ok": true,
+   "detail": []
+  },
+  "ocr_readable": {
+   "ok": true,
+   "detail": {
+    "_o0_0.png": 1.0,
+    "_o0_1.png": 1.0,
+    "_o1_0.png": 1.0,
+    "_o1_1.png": 1.0,
+    "_o2_0.png": 1.0,
+    "_o2_1.png": 1.0,
+    "_o3_0.png": 1.0,
+    "_o3_1.png": 1.0,
+    "_o4_0.png": 1.0,
+    "_o4_1.png": 1.0,
+    "_o5_0.png": 1.0,
+    "_o5_1.png": 1.0,
+    "_o6_0.png": 1.0,
+    "_o6_1.png": 1.0,
+    "_oend.png": 0.96
+   }
+  }
+ },
+ "ok": true
+}
